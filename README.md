@@ -1,4 +1,4 @@
-# Foofies - Food Point
+# Foodies - Food Point
 
 ## Overview
 
